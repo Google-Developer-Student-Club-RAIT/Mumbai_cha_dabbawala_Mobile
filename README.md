@@ -15,7 +15,7 @@ mummbai cha dabbawala is a android application built with android studio and fir
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Google-Developer-Student-Club-RAIT/Mumbai_cha_dabbawala_Mobile
+https://github.com/Google-Developer-Student-Club-RAIT/Mumbai_cha_dabbawala_Mobile.git 
 ```
 
 **Step 2:**
@@ -50,7 +50,7 @@ or if you get any error in gradle then execute following option:
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/Google-Developer-Student-Club-RAIT/Mumbai_cha_dabbawala_Mobile
+git clone https://github.com/Google-Developer-Student-Club-RAIT/Mumbai_cha_dabbawala_Mobile.git 
 ```
 
 **3.** Navigate to the project directory :file_folder: .
